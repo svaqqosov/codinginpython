@@ -1,2 +1,2 @@
-# Pythonda dasturlash
+# Pythonda dasturlash :uz: 
 Pythonda masalalar va ularning yechimi
